@@ -51,3 +51,10 @@ Het gaat om een makkelijk tussen door project, aangezien het een RP project is, 
 FCM calles kunnen via algemeen kanaal gestuurt worden zo dat er geen tokens gekoppeld hoeven te worden.
 
 
+--------------------------------------------
+Volgende taken zijn er om te verdelen:
+- APP
+- Website
+- API
+- Evt. simpel artwork.
+
